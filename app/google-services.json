@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275776271551",
+    "firebase_url": "https://new-store-app.firebaseio.com",
+    "project_id": "new-store-app",
+    "storage_bucket": "new-store-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275776271551:android:ab7670ed3ab2d75e32c20a",
+        "android_client_info": {
+          "package_name": "com.example.newstoreapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275776271551-uk8inch16c03on2kccnkqp8kd1aqej4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0hPo9hOEol7k9MbwvJYIUmIUm8tlzi_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275776271551-uk8inch16c03on2kccnkqp8kd1aqej4a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
